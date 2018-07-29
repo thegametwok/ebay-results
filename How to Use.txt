@@ -1,0 +1,7 @@
+This is a VBA program that sorts all of the items sold on eBay through a marketplace. It then sums up all of the sales of that item and sorts by most sold to only 1 sold.
+
+It also adds up the total sales for the day and the amount of items sold.
+
+To begin, hit Start Over.
+
+To return values, hit Get Daily Totals
